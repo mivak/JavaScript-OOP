@@ -1,0 +1,5 @@
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Courses\bin\Courses.dll.config
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Courses\bin\Courses.dll
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Courses\bin\Courses.pdb
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Courses\obj\Debug\Courses.dll
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Courses\obj\Debug\Courses.pdb

@@ -1,0 +1,6 @@
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Heroes\bin\Heroes.dll.config
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Heroes\bin\Heroes.dll
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Heroes\bin\Heroes.pdb
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Heroes\obj\Debug\Heroes.csprojResolveAssemblyReference.cache
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Heroes\obj\Debug\Heroes.dll
+C:\TelerikAcademy\JavaScript OOP\ExamPreparation\Heroes\obj\Debug\Heroes.pdb
